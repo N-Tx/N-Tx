@@ -12,16 +12,24 @@
  
 </p>
 
-<br>
-
 <p align="center"> 
   <a href="https://www.instagram.com/n4thazinho/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="https://docs.google.com/forms/d/1zvHHSwZ23hYaBr_5-_zC_rDInFRCch0OXh1pEVailCE/edit" target_
+  <a href="https://docs.google.com/forms/d/1zvHHSwZ23hYaBr_5-_zC_rDInFRCch0OXh1pEVailCE/edit" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+  </a> 
+  <a href="mailto:nathanoliveirafacul@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/nathan-teixeira-8505b9241/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  </a>
+</p>
 
-
-<div align="center" >
 <h1> Resumo sobre mim </h1>
 <p>
 <ul>
