@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Olá,+seja+bem-vindo+ao+meu+GitHub!;Fique+à+vontade+😊👋&center=true&width=500&height=50&font=Fira+Code&pause=1000&color=F7F7F7&vCenter=true&size=24" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/demo/?color=F70000&width=500&separator=%3C&lines=Ol%C3%A1%2C+seja+bem-vindo+ao+meu+GitHub!;Fique+%C3%A0+vontade+%F0%9F%98%8A%F0%9F%91%8B" />
 </p>
 
 <div style="display: inline_block"><br>
