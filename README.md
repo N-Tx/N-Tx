@@ -33,6 +33,19 @@
 
 <div align="center" >
 <h1> Resumo sobre mim </h1>
+<p>
+<ul>
+<li>Meu nome é Nathan, Tenho 24 anos.</li>
+<li>Sou graduando em Sistemas de informação - UFRRJ </li>
+<li>Busco oportunidade de estágio onde poderei aplicar meus conhecimentos e evoluir profissionalmente na empresa</li>
+
+  
+</ul>
+
+
+
+  
+</p>
 
 
 
