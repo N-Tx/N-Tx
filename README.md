@@ -18,7 +18,7 @@
   <a href="https://www.instagram.com/n4thazinho/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="" target="_blank">
+  <a href="https://docs.google.com/forms/d/1zvHHSwZ23hYaBr_5-_zC_rDInFRCch0OXh1pEVailCE/edit" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   </a> 
   <a href="mailto:nathanoliveirafacul@gmail.com">
