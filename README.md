@@ -1,4 +1,6 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?lines=Olá,+seja+bem-vindo+ao+meu+GitHub!;Fique+à+vontade+😊👋&center=true&width=380&height=45&font=Fira%20Code&pause=1000&color=F7F7F7&vCenter=true&size=22" alt="Typing SVG" />
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Nathan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
