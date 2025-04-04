@@ -38,7 +38,6 @@
 <li>Meu nome é Nathan, Tenho 24 anos.</li>
 <li>Sou graduando em Sistemas de informação - UFRRJ </li>
 <li>Busco oportunidade de estágio onde poderei aplicar meus conhecimentos e evoluir profissionalmente na empresa</li>
-<li>Me esforço para aprender tudo de forma eficiente, eficaz e rápida, o que já me rendeu feedbacks muito positivos ao longo da minha trajetória.</li>
 <li> Acredito que posso agregar muito valor a uma equipe, contribuindo com dedicação e aprendizado contínuo. Estou à disposição para oportunidades e desafios que me permitam evoluir como desenvolvedor e contribuir para projetos inovadores.</li>
 
   
