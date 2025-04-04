@@ -31,7 +31,7 @@
 
 
 
-<div>
+<div align="center" >
 <h1> Resumo sobre mim </h1>
 
 
