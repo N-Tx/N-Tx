@@ -27,6 +27,10 @@
   <a href="https://www.linkedin.com/in/nathan-teixeira-8505b9241/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
+  <br>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/120px-Tux.svg.png" alt="Linux Tux" width="80">
+</p>
+
 </p>
 
 
